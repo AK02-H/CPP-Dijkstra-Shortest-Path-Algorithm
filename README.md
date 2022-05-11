@@ -1,0 +1,2 @@
+# CPP-Dijkstra-Shortest-Path-Algorithm
+Visual Studio C++ program that uses Dijkstra's Shortest Path algorithm to find the shortest route from one node to another on a weighted graph. Does not work with generic types, but the keys of the graph map can be switched out. It is preferable to use strings, chars or ints to identify the nodes.  Made for my first-year algorithms module in the Games Programming course at Teesside University.
